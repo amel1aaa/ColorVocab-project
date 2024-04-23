@@ -1,0 +1,19 @@
+.note{
+    color: black;
+}
+p[value="orange"]{
+    color: orange;
+}
+p[value="blue"]{
+    color: blue;
+}
+p[value="grey"]{
+    color: gray;
+}
+#id-dark-brown{
+    color: brown;
+}
+*{
+    text-align: left;
+    font-weight: normal;
+}
